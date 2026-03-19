@@ -1,6 +1,6 @@
 <h1>Geoip list</h1>
 <br>
-Converting geoip data from herrbischoff.com in a file Opnsense read
+Converted geoip data from herrbischoff.com into a file Opnsense can read
 <br>
 <br>
 <b>Full list</b>
