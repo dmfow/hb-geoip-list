@@ -1,9 +1,12 @@
 <h1>Geoip list</h1>
 <br>
-Testing out converting geoip data from herrbischoff.com to a file Opnsense read
+Converting geoip data from herrbischoff.com in a file Opnsense read
 <br>
 <br>
-country_blocks.csv.gz is the full list
+<b>Full list</b>
+country_blocks.csv.gz 
 <br>
-country_blocks_testbatch.csv.gz is a short list for test purpose
+<br>
+<b>A short list for test purpose</b>
+country_blocks_testbatch.csv.gz
 <br>
