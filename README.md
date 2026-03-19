@@ -7,6 +7,6 @@ Converted geoip data from herrbischoff.com into a file Opnsense can read
 <br>country_blocks.csv.gz 
 <br>
 <br>
-<b>A short list for test purpose</b>
+<b>A short list for test purpose with Norway, Denmark, Finland and Sweden</b>
 <br>country_blocks_testbatch.csv.gz
 <br>
