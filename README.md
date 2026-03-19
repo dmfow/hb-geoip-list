@@ -1,5 +1,8 @@
 <h1>Geoip list</h1>
 <br>
+<b>Not working yet - in progress</b>
+<br>
+<br>
 Converted geoip data from herrbischoff.com into a file Opnsense can read
 <br>
 <br>
