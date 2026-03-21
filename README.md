@@ -11,7 +11,7 @@ Converted geoip data from herrbischoff.com into a file that Opnsense can read. C
 </i>
 <br><br>
 <b>zip (working, but only a test set as of now)</b>
-<br><br>
+<br>
 &nbsp;&nbsp;&nbsp;  https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.zip
 <br>
 <br>
