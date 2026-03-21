@@ -1,6 +1,6 @@
 <h1>Geoip list</h1>
 <br>
-<b>In progress</b>
+<b>In progress, under test</b>
 <br>
 Converted geoip data from herrbischoff.com into a file that Opnsense can read. Could be used for geo blocking in Opnsense.
 <br>
