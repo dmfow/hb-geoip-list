@@ -16,7 +16,9 @@ In opnsense Firewall/Aliases/"geoip settings" tab enter:
 <b>zip (working, but only a test set as of now)</b>
 <br>country_blocks.zip
 <br>
-In opnsense Firewall/Aliases/"geoip settings" tab enter: 
+In the opnsense menu: Firewall/Aliases 
+<br>Click on: "geoip settings" tab
+<br>Enter in the url field: 
 <br>
   https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.zip
 <br>
