@@ -9,11 +9,15 @@ Converted geoip data from herrbischoff.com into a file Opnsense can read
 <b>gz (not working)</b>
 <br>country_blocks.csv.gz 
 <br>
-In opnsense Firewall/Aliases/"geoip settings" tab enter: https://github.com/dmfow/hb-geoip-list/blob/main/blocklist.csv.gz
+In opnsense Firewall/Aliases/"geoip settings" tab enter: 
+<br>
+   https://github.com/dmfow/hb-geoip-list/blob/main/blocklist.csv.gz
 <br>
 <br>
 <b>zip (working, but only a test set as of now)</b>
-<br>country_blocks_testbatch.csv.gz
+<br>country_blocks.zip
 <br>
-In opnsense Firewall/Aliases/"geoip settings" tab enter: https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/blocklist.csv.gz
+In opnsense Firewall/Aliases/"geoip settings" tab enter: 
+<br>
+  https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.zip
 <br>
