@@ -3,7 +3,7 @@
 <b>In progress</b>
 <br>
 <br>
-Converted geoip data from herrbischoff.com into a file Opnsense can read
+Converted geoip data from herrbischoff.com into a file that Opnsense can read. Could be used for geo blocking in Opnsense
 <br>
 <br>
 <b>gz (not working)</b>
