@@ -10,15 +10,16 @@ Converted geoip data from herrbischoff.com into a file that Opnsense can read. C
 <br>
 In opnsense Firewall/Aliases/"geoip settings" tab enter: 
 <br>
-   https://github.com/dmfow/hb-geoip-list/blob/main/blocklist.csv.gz
+&nbsp;&nbsp;&nbsp;   https://github.com/dmfow/hb-geoip-list/blob/main/blocklist.csv.gz
 <br>
 <br>
 <b>zip (working, but only a test set as of now)</b>
 <br>country_blocks.zip
 <br>
-In the opnsense menu: Firewall/Aliases 
+<i>In the opnsense menu: Firewall/Aliases 
 <br>Click on: "geoip settings" tab
 <br>Enter in the url field: 
+</i>
 <br>
-  https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.zip
+&nbsp;&nbsp;&nbsp;  https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.zip
 <br>
