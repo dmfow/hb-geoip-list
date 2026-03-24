@@ -21,3 +21,12 @@ Converted geoip data from herrbischoff.com into a file that Opnsense can read. C
 &nbsp;&nbsp;&nbsp;   https://github.com/dmfow/hb-geoip-list/blob/main/blocklist.csv.gz
 <br>
 <br>
+<br>
+<b>A test subset is availablie in </b>
+<br>
+&nbsp;&nbsp;&nbsp;  https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.test.zip
+<br>
+&nbsp;&nbsp;&nbsp;   https://github.com/dmfow/hb-geoip-list/blob/main/blocklist.test.csv.gz
+<br>
+<br>
+<br>
