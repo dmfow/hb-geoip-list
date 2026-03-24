@@ -22,7 +22,7 @@ Converted geoip data from herrbischoff.com into a file that Opnsense can read. C
 <br>
 <br>
 <br>
-<b>A test subset is available with the following files (try eg Finland) </b>
+<b>A test subset is available with the following files (try eg Finland, .gz does not work yet) </b>
 <br>
 &nbsp;&nbsp;&nbsp;  https://github.com/dmfow/hb-geoip-list/raw/refs/heads/main/country_blocks.test.zip
 <br>
